@@ -25,7 +25,7 @@ chmod 777 Xyteee
 ```
 Note: (This Tools Are Paid, So You Need Permission To Use XYTEEE-XC Tools Enjoy)
 
-![20200808_160757](https://github.com/XYTEEE/XYTEEE-XC/blob/main/Xyteee.png)
+
 
  <h2>Facebook Tools, category</h2>
 <ol>
@@ -44,6 +44,6 @@ Note: (This Tools Are Paid, So You Need Permission To Use XYTEEE-XC Tools Enjoy)
 <img src="https://github.com/XYTEEE/XYTEEE-XC/blob/main/Screenshot_2024_0616_084149.png">
  
 ```
-Whatsapp group Link : ```https://chat.whatsapp.com/Bjc7QkGoMYJ4RE1hdrjcJa```
+Whatsapp group Link : ```https://whatsapp.com/dl/```
 
-[CODED BY XYTEEE]
+[CODED BY sadam]
