@@ -1,0 +1,4 @@
+rm -rf Sadam404
+git clone --depth=1 https://github.com/XYTEEE/XYTEEE-XC
+cd sadam404-XC
+python Picchi.p
